@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Project 1",
+    "description": "This is a description of Project 1.",
+    "imgSrc": "../images/covidHope.png",
+    "link": "project1.html"
+  },
+  {
+    "title": "Project 2",
+    "description": "This is a description of Project 2.",
+    "imgSrc": "../images/chartWriter.jpg",
+    "link": ""
+  },
+  {
+    "title": "Project 3",
+    "description": "This is a description of Project 3.",
+    "imgSrc": "../images/fingerOnIPAD.jpg",
+    "link": ""
+  },
+  {
+    "title": "Project 4",
+    "description": "This is a description of Project 4.",
+    "imgSrc": "../images/pencilSketchExtracted.jpg",
+    "link": ""
+  },
+  {
+    "title": "Project 5new",
+    "description": "This is a description of Project 5.",
+    "imgSrc": "../images/nusi.jpg",
+    "link": ""
+  },
+  {
+    "title": "Project 6",
+    "description": "This is a description of Project 6.",
+    "imgSrc": "../images/500x400.png",
+    "link": ""
+  }	
+]
