@@ -40,3 +40,17 @@ a.navbar-brand img {
 
 a.active {font-weight: bold}
 
+.specialback {
+    color:white;
+    background:
+        /* top, transparent black, faked with gradient */ 
+        linear-gradient(
+          rgba(0, 0, 0, 0.3), 
+          rgba(0, 0, 0, 0.3)
+        ),
+        /* bottom, image */
+        url(../images/chartWriter.jpg);
+    background-size: cover;
+    background-position:center;
+    height:500px;
+}
