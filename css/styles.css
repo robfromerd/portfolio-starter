@@ -15,6 +15,7 @@ font-family: 'Red Hat Display', sans-serif;
 h1,h2,h3,h5{
 font-family: 'Red Hat Display', sans-serif;
     font-weight:900;
+    color:var(--mybrandcolor) !important;
 }
 .navbar-brand span {
     font-family: 'Red Hat Display', sans-serif;
