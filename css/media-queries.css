@@ -10,8 +10,8 @@
   /*display:none;*/
   font-size:14px !important;
   }
-  .hvr-underline-from-center {
-  background:white;
+  .hvr-underline-from-center:before {
+  background:#f8f9fa;
   }
 }
 
