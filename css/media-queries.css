@@ -6,6 +6,10 @@
   p.notice:after {
     content: " portait";
   }
+  a.navbar-brand span {
+  /*display:none;*/
+  font-size:14px !important;
+  }
 }
 
 
