@@ -20,27 +20,14 @@
  h2 {
         font-family: Bitter;
     } 
-    
 .toBeSwapped{
         width:100%;
         height:100%;
         margin:auto;
         display:block;
-       
-} 
-    .outer-wrapper{
-      border:1px dotted #333; 
-    padding:.5rem;    
-    }    
-    .wrapper {
-    /* Instruction: put an svg in your images folder that is the same as your inline svg BUT the version before you upload it into SVG Artista */    
-        background-image: url(images/noungun.svg);
-        background-position: center;
-        background-size: cover;
-    }   
-    .wrapper:hover {
-        background:none;
-    }
+        border:1px dotted #333;
+        padding:.5rem;
+}   
 /* Instruction: delete these styles and then paste in the SVG Artista styles */
     
 /***************************************************
@@ -282,14 +269,13 @@ svg.active .svg-elem-15 {
         <h2 class="text-center">Animated GIF Example</h2>
 
     <p class="text-center">Frame-based Animated GIF created in Photoshop (hover over static image to see)</p>
-<!-- Instruction: change to a PNG of the best frame of your GIF but just change the src attribute, not the rest -->    
+<!-- Instruction: change to a PNG of the best frame of your GIF -->    
 <img id="imageSwap" src="images/truongAnimation_GIF.png" alt="Your Image" class="img-fluid myprogress d-block mx-auto">
 <hr>
     <h2 class="text-center">SVG Animation Example</h2>
         <p class="text-center">SVG Stroke Animation Created in illustrator (hover within box to see)</p>
-<div class="outer-wrapper">    
     <div class="wrapper">
- <!-- Instruction: Paste in your SVG from SVG Artista using the CSS transition option, inside the opening svg tag add the CSS classes toBeSwapped and myprogress -->     
+ <!-- Instruction: Paste in your SVG from SVG Artista using the CSS transition option -->     
 <!--?xml version="1.0" encoding="UTF-8"?-->
 <svg  class="toBeSwapped myprogress" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 801.86 483.6" width="801.8599853515625" height="483.6000061035156">
   <defs>
@@ -345,7 +331,7 @@ svg.active .svg-elem-15 {
   </g>
 </svg>   
     </div>
-</div>  
+  
 
 
 <!-- <p class="notice">Breakpoint: </p> -->
