@@ -40,5 +40,10 @@
     "description": "This is a description of Project 6.",
     "imgSrc": "../images/500x400.png",
     "link": ""
+  },  {
+    "title": "Case Study",
+    "description": "A Unique Learning Approach",
+    "imgSrc": "../images/projectImage1.png",
+    "link": "project2.html"
   }	
 ]
